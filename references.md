@@ -9,4 +9,5 @@ When contributing to the presentation, our group made use of the information pro
 - Indiana University Lilly Family School of Philanthropy, [Data on Declining US Donor Participation](https://scholarworks.iupui.edu/server/api/core/bitstreams/f5f188c8-285e-4ddd-ab10-6da930d82c6f/content "Market Analysis").
 - Philanthropy Roundtable, [Statistics on US Generosity](https://www.philanthropyroundtable.org/almanac/statistics-on-u-s-generosity/ "Market Analysis").
 - Philanthropy Roundtable, [Statistics on who donates](https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity/#:~:text=People%20with%20means%2C%20as%20you,of%20available%20income%2C%20that%20is "Market Analysis").
+- US Census Bureau, [Aging of the US Population 2000-2020](https://www.census.gov/library/stories/2023/05/aging-united-states-population-fewer-children-in-2020.html "Market Analysis")
 - World Food Program USA, [What causes Americans donate to](https://www.wfpusa.org/articles/why-americans-donate-what-motivates-people-to-give-and-what-causes-do-they-give-to/ "Consumer Benedits").
