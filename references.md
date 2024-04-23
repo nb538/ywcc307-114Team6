@@ -11,4 +11,4 @@ When contributing to the presentation, our group made use of the information pro
 - Philanthropy Roundtable, [Statistics on who donates](https://www.philanthropyroundtable.org/almanac/who-gives-most-to-charity/#:~:text=People%20with%20means%2C%20as%20you,of%20available%20income%2C%20that%20is "Market Analysis").
 - US Census Bureau, [Aging of the US Population 2000-2020](https://www.census.gov/library/stories/2023/05/aging-united-states-population-fewer-children-in-2020.html "Market Analysis")
 - World Food Program USA, [What causes Americans donate to](https://www.wfpusa.org/articles/why-americans-donate-what-motivates-people-to-give-and-what-causes-do-they-give-to/ "Consumer Benedits").
-Charitable Contribution Deductions IRS : https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions
+- Charitable Contribution Deductions IRS, [Charitable Contribution Deductions](https://www.irs.gov/charities-non-profits/charitable-organizations/charitable-contribution-deductions "Consumer Benefits").  
