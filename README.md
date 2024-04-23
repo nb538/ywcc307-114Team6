@@ -1,5 +1,5 @@
 # ywcc307-114Team6
-This is the project repository for Team 6 of YWCC 307 for Spring of 2024 at the New Jersey Institute of Technology.  
+This is the project repository for Team 6 of YWCC 307 for the Spring semester of 2024 at the New Jersey Institute of Technology.  
 
 ## Project Summary
 To be brief, our group has been charged to produce a proposal for a commercial application in social finance.  
